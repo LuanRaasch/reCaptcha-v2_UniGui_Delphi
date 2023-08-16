@@ -1,0 +1,64 @@
+Project1.exe: 000038A4: 19:34:35 []:>--------------------------------------------------------------<
+Project1.exe: 000038A4: 19:34:35 [TUniServerModule]:Server First Init.
+Project1.exe: 000038A4: 19:34:35 [TUniServerModule]:Start Path = C:\Users\luanr\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1\Win32\Debug\
+Project1.exe: 000038A4: 19:34:35 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 000038A4: 19:34:35 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 000038A4: 19:34:35 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00008CFC: 19:35:11 [HandleFileRequest[127.0.0.1]]:File not found: C:\Users\luanr\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1\Win32\Debug\cache\project1_exe\8x1uRECvBg10CEC52E8\favicon.ico
+Project1.exe: 00003E38: 19:38:58 []:>--------------------------------------------------------------<
+Project1.exe: 00003E38: 19:38:58 [TUniServerModule]:Server First Init.
+Project1.exe: 00003E38: 19:38:58 [TUniServerModule]:Start Path = C:\Users\luanr\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1\Win32\Debug\
+Project1.exe: 00003E38: 19:38:58 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 00003E38: 19:38:58 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00003E38: 19:38:58 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00008464: 19:39:56 []:>--------------------------------------------------------------<
+Project1.exe: 00008464: 19:39:56 [TUniServerModule]:Server First Init.
+Project1.exe: 00008464: 19:39:56 [TUniServerModule]:Start Path = C:\Users\luanr\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1\Win32\Debug\
+Project1.exe: 00008464: 19:39:56 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 00008464: 19:39:56 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00008464: 19:39:56 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00005968: 19:40:16 []:>--------------------------------------------------------------<
+Project1.exe: 00005968: 19:40:16 [TUniServerModule]:Server First Init.
+Project1.exe: 00005968: 19:40:16 [TUniServerModule]:Start Path = C:\Users\luanr\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1\Win32\Debug\
+Project1.exe: 00005968: 19:40:16 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00005968: 19:40:16 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00005968: 19:40:23 [TUniServerModule]:Shutting Down Server.
+Project1.exe: 00005968: 19:40:23 [TUniServerModule]:Stopping HTTP Server.
+Project1.exe: 00005968: 19:40:24 [TUniServerModule]:HTTP Server Stopped.
+Project1.exe: 00005968: 19:40:24 [TUniGUISessionManager]:Terminating Session manager.
+Project1.exe: 00005968: 19:40:24 [TUniGUISessionManager]:Stopping Cache Eraser...
+Project1.exe: 00005968: 19:40:24 [TUniGUISessionManager]:Cache Eraser Stopped.
+Project1.exe: 00005968: 19:40:24 [TUniGUISessionManager]:Destroying Worker Threads.
+Project1.exe: 00005968: 19:40:24 [TUniGUISessionManager]:Session manager terminated.
+Project1.exe: 00005968: 19:40:24 [TUniWebSocketStack]:Terminating...
+Project1.exe: 00005968: 19:40:24 [TUniGUIMessageQ]:Terminated.
+Project1.exe: 00005968: 19:40:24 [TUniWebSocketStack]:Terminated.
+Project1.exe: 00005968: 19:40:24 [TUniServerModule]:Server Shutdown Completed.
+Project1.exe: 00005968: 19:40:24 []:<-------------------------------------------------------------->
+Project1.exe: 00005968: 19:40:24 [Terminated]:Exit Code: 0
+Project1.exe: 00008CB8: 19:40:26 []:>--------------------------------------------------------------<
+Project1.exe: 00008CB8: 19:40:26 [TUniServerModule]:Server First Init.
+Project1.exe: 00008CB8: 19:40:26 [TUniServerModule]:Start Path = C:\Users\luanr\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1\Win32\Debug\
+Project1.exe: 00008CB8: 19:40:26 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 00008CB8: 19:40:26 [TUniServerModule]:HTTP Server Started on Port: 8077
+Project1.exe: 00008CB8: 19:41:03 [TUniServerModule]:Shutting Down Server.
+Project1.exe: 00008CB8: 19:41:03 [TUniServerModule]:Stopping HTTP Server.
+Project1.exe: 00008CB8: 19:41:04 [TUniServerModule]:HTTP Server Stopped.
+Project1.exe: 00008CB8: 19:41:04 [TUniGUISessionManager]:Terminating Session manager.
+Project1.exe: 00008CB8: 19:41:04 [TUniGUISessionManager]:Stopping Cache Eraser...
+Project1.exe: 00008CB8: 19:41:04 [TUniGUISessionManager]:Cache Eraser Stopped.
+Project1.exe: 00008CB8: 19:41:04 [TUniGUISessionManager]:Destroying Worker Threads.
+Project1.exe: 00008CB8: 19:41:04 [TUniGUISessionManager]:Session manager terminated.
+Project1.exe: 00008CB8: 19:41:04 [TUniWebSocketStack]:Terminating...
+Project1.exe: 00008CB8: 19:41:04 [TUniGUIMessageQ]:Terminated.
+Project1.exe: 00008CB8: 19:41:04 [TUniWebSocketStack]:Terminated.
+Project1.exe: 00008CB8: 19:41:04 [TUniServerModule]:Server Shutdown Completed.
+Project1.exe: 00008CB8: 19:41:04 []:<-------------------------------------------------------------->
+Project1.exe: 00008CB8: 19:41:04 [Terminated]:Exit Code: 0
+Project1.exe: 0000586C: 19:41:58 []:>--------------------------------------------------------------<
+Project1.exe: 0000586C: 19:41:58 [TUniServerModule]:Server First Init.
+Project1.exe: 0000586C: 19:41:58 [TUniServerModule]:Start Path = C:\Users\luanr\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1\Win32\Debug\
+Project1.exe: 0000586C: 19:41:58 [TUniServerModule]:Debug Mode = ON
+Project1.exe: 0000586C: 19:41:58 [TUniGUISessionManager]:Cache erase job created, Folder count: [2]
+Project1.exe: 0000586C: 19:41:58 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Project1.exe: 0000586C: 19:41:58 [TUniServerModule]:HTTP Server Started on Port: 8077

@@ -1,0 +1,91 @@
+object UniFrame1: TUniFrame1
+  Left = 0
+  Top = 0
+  Width = 1130
+  Height = 595
+  TabOrder = 0
+  object UniPageControl1: TUniPageControl
+    Left = 0
+    Top = 0
+    Width = 1130
+    Height = 595
+    Hint = ''
+    ActivePage = UniTabSheet2
+    Align = alClient
+    TabOrder = 0
+    ExplicitLeft = 424
+    ExplicitTop = 288
+    ExplicitWidth = 289
+    ExplicitHeight = 193
+    object UniTabSheet1: TUniTabSheet
+      Hint = ''
+      Caption = 'Cadastro de Fornedores'
+      ExplicitLeft = 0
+      ExplicitTop = 0
+      ExplicitWidth = 289
+      ExplicitHeight = 193
+      object UniGroupBox1: TUniGroupBox
+        Left = 0
+        Top = 0
+        Width = 1122
+        Height = 567
+        Hint = ''
+        Caption = 'Fornecedor'
+        Align = alClient
+        TabOrder = 0
+        ExplicitLeft = 368
+        ExplicitTop = 168
+        ExplicitWidth = 185
+        ExplicitHeight = 105
+      end
+    end
+    object UniTabSheet2: TUniTabSheet
+      Hint = ''
+      Caption = 'Buscar Fornecedores'
+      ExplicitLeft = 0
+      ExplicitTop = 0
+      ExplicitWidth = 289
+      ExplicitHeight = 193
+      object UniGroupBox2: TUniGroupBox
+        Left = 0
+        Top = 0
+        Width = 1122
+        Height = 567
+        Hint = ''
+        Caption = 'Lista de Fornecedores'
+        Align = alClient
+        TabOrder = 0
+        ExplicitLeft = 368
+        ExplicitTop = 168
+        ExplicitWidth = 185
+        ExplicitHeight = 105
+        object UniDBGrid1: TUniDBGrid
+          Left = 24
+          Top = 80
+          Width = 1073
+          Height = 457
+          Hint = ''
+          LoadMask.Message = 'Loading data...'
+          TabOrder = 1
+        end
+        object UniEdit1: TUniEdit
+          Left = 24
+          Top = 44
+          Width = 249
+          Hint = ''
+          Text = ''
+          TabOrder = 2
+        end
+        object UniLabel1: TUniLabel
+          Left = 24
+          Top = 25
+          Width = 36
+          Height = 13
+          Hint = ''
+          Caption = 'Buscar:'
+          TabOrder = 3
+        end
+      end
+    end
+  end
+end
